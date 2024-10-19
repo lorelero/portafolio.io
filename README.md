@@ -1,2 +1,2 @@
 ## Portafolio
-https://lorelero.github.io/ <br>
+https://lorelero.github.io/portafolio.io/
